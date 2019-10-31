@@ -1,0 +1,57 @@
+<resources>
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+
+    <string name="app_name">Database Project</string>
+
+
+    <!-- Label for overflow menu option that inserts dummy data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all order history in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All History</string>
+
+    <!-- Title for the activity to place a new order [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_pet">Add an Entry</string>
+
+    <!-- Label for editor menu option to place a new order and leave the editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current order [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Label for chili information in the editor [CHAR LIMIT=30] -->
+    <string name="category_chili">Chili Preference</string>
+
+    <!-- Label for measurement information in the editor [CHAR LIMIT=30] -->
+    <string name="category_measurement">Measurement</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_customer_name">Name</string>
+
+    <!-- Text hint for add on field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_addon">Add On Menu</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_quantity">Quantity</string>
+
+    <!-- Units (pcs) [CHAR LIMIT=5] -->
+    <string name="unit">pcs</string>
+
+    <!-- Label for dropdown menu [CHAR LIMIT=20] -->
+    <string name="chili_nopref">No Preference</string>
+
+    <!-- Label for dropdown menu [CHAR LIMIT=20] -->
+    <string name="chili_yes">Add Chili</string>
+
+    <!-- Label for dropdown menu [CHAR LIMIT=20] -->
+    <string name="chili_no">No Chili</string>
+</resources>
